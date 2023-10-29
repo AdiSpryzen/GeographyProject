@@ -1,0 +1,191 @@
+
+body {
+    font-family: "Montserrat"
+  }
+  
+  h1 {
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  
+  h2 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  h3 {
+    font-family: "Montserrat";
+    font-weight: bold;
+  }
+
+  .sub-title{
+    color: #3c220e;
+  }
+  
+  p {
+    color: #3c220e;
+  }#title {
+    
+    /* background-image: url("https://images.wallpaperscraft.com/image/single/tyrannosaurus_dinosaur_jungle_146701_3840x2160.jpg"); */
+    /* background-image: url("https://images.wallpapersden.com/image/download/jurassic-world-fallen-kingdom-dinosaurs_a2dsZmeUmZqaraWkpJRpa2ZorWdqbWw.jpg"); */
+    /* background-image: url("https://img.freepik.com/premium-photo/dinosaur-jungle-generative-ai_634053-3092.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697155200&semt=ais"); */
+    /* background-image: url("https://pbs.twimg.com/media/FVSqTziWYAA84cO.jpg:large"); */
+    /* background-image: url("https://img.freepik.com/premium-photo/predatory-dinosaur-jungle-search-food-ai-generative_172415-250.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696896000&semt=ais"); */
+    /* background-image: url("https://preview.redd.it/1920-x-1080-dinosaur-landscape-v0-v4utmrdc57h81.jpg?auto=webp&s=fc3557ed4e5299d14c3604ab94281b56472a6cc2"); */
+    background-image: url("https://i.pinimg.com/originals/54/6f/21/546f21cd461369182f008cb50747a98b.jpg");
+    color: #3c220e;
+    height: 710px;
+
+    
+  }
+  
+  .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  
+  .icon {
+    color: #80471c;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #3c220e;
+  }
+  
+  
+  
+  
+  /* navigation bar */
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat"
+  }
+  
+  /* Download Button */
+  .download-button {
+    margin: 5% 3% 5% 0%
+  }
+  
+  /* title image */
+  .title-image {
+    width: 300px;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 23%;
+  }
+  
+  /*
+  features section */
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+  }
+  
+  .feature-box {
+    text-align: center;
+    padding: 4.5%;
+  }
+  
+  /* testimonial */
+  #testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #80471c;
+    color: #fff;
+  }
+  
+  .testimonial-image {
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  
+  .carousel-item{
+    padding: 7% 15%;
+  }
+  
+  /* press */
+  #press {
+    background-color: #80471c;
+    text-align: center;
+    padding-bottom: 3%;
+  }
+  
+  .press-logo{
+    width: 15%;
+    margin: 20px 20px 50px  ;
+  }
+  
+  
+  /* pricing section */
+  #pricing{
+    padding: 100px;
+    text-align: center;
+  }
+  
+  
+  .pricing-column{
+    padding: 3% 2%;
+  }
+  
+  
+  @media (max-width: 1300px){
+    .title-image{
+      position: static;
+      transform: rotate(0);
+    }
+  }
+  
+
+  #cta{
+    background-color: #3c220e;
+    padding: 7% 15%;
+    color: white;
+    text-align: center;
+  }
+  
+  
+  .cta-heading{
+    font-family: "Montserrat";
+    font-weight: bolder;
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  
+  footer
+  #footer{
+    padding: 7% 15%;
+    text-align: center;
+    
+  }
+  
+  
+  .social-icon{
+    margin: 20px 10px;
+  }
+  
+
+  .white{
+    color: white;
+  }
+
+  
